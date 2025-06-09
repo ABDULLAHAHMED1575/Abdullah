@@ -46,18 +46,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahAhmedDev&show_icons=true&theme=github_dark" alt="Abdullah's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdullahAhmedDev&theme=github-dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p>
