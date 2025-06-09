@@ -58,10 +58,8 @@
 
 ### 🚀 Projects Showcase
 
-- [🔗 Blog App (React + FastAPI)](https://github.com/AbdullahAhmedDev/blog-app-frontend) – Full-featured blog platform with auth, comments, notifications & moderation
-- [☁️ Weather App](https://github.com/AbdullahAhmedDev/weather-app) – Real-time weather updates using OpenWeatherMap API
-- [🧾 Todo App](https://github.com/AbdullahAhmedDev/todo-app) – Organized and clean task manager with filters and priority control
-- [💸 Point of Sale System (Java)](https://github.com/MuhammadHamzaWaqar1317/point-of-sale-java.git) – Desktop POS app for businesses
+- [🔗 Blog App (React + FastAPI)](https://github.com/ABDULLAHAHMED1575/blog) – Full-featured blog platform with auth, comments, notifications & moderation
+- [☁️ Ecommerce](https://github.com/ABDULLAHAHMED1575/ecommerce)– Complete online store with product listings, cart, authentication, and order management
 
 ---
 
