@@ -58,9 +58,9 @@
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:abdullahahmed.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/abdullahahmeddev"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/AbdullahAhmedDev"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub" /></a>
+  <a href="mailto:abdullahahmedmed1575@gmail.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/abdullahmed1/"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/ABDULLAHAHMED1575"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub" /></a>
 </p>
 
 ---
